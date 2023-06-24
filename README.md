@@ -11,10 +11,10 @@ This project is a login/signup form with beautiful transitions, designed to enha
 
 ## Screenshots
 
-![Login Page](/screenshots/login.png)
+![Login Page](login.png)
 > This screenshot showcases the login page with a stunning transition effect.
 
-![Signup Page](/screenshots/signup.png)
+![Signup Page](signup.png)
 > Here's a screenshot of the signup page, highlighting the seamless transition animation.
 
 ## Getting Started
